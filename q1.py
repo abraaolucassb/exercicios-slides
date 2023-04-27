@@ -61,5 +61,7 @@ finally:
 # basta apenas colocar o except. Ele vai dizer o que acontece quando aquele erro for executado.
 # E no try é o conjunto de instruções que pode ocasionar uma exceção
 
+# você pode usar else também e o finally sempre vai rodar no seu código
+
 # RESUMINDO, o except evita que apareça aquelas mensagens feias de erro na tela
 # Você consegui ligar com os erros de maneira ideal
