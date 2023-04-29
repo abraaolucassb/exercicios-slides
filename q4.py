@@ -1,5 +1,5 @@
 '''
-Reescreva o item anterior com usando for.
+Reescreva o item anterior com for.
 '''
 
 # item anterior
